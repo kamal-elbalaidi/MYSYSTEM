@@ -1,0 +1,35 @@
+[Added Associations]
+text/x-log=nvim.desktop;
+text/plain=nvim.desktop;
+inode/directory=nnn.desktop;
+image/png=nsxiv.desktop;
+image/svg+xml=nsxiv.desktop;
+x-scheme-handler/http=userapp-Firefox-Y25OF2.desktop;
+x-scheme-handler/https=userapp-Firefox-Y25OF2.desktop;
+x-scheme-handler/chrome=userapp-Firefox-Y25OF2.desktop;
+text/html=userapp-Firefox-Y25OF2.desktop;
+application/x-extension-htm=userapp-Firefox-Y25OF2.desktop;
+application/x-extension-html=userapp-Firefox-Y25OF2.desktop;
+application/x-extension-shtml=userapp-Firefox-Y25OF2.desktop;
+application/xhtml+xml=userapp-Firefox-Y25OF2.desktop;
+application/x-extension-xhtml=userapp-Firefox-Y25OF2.desktop;
+application/x-extension-xht=userapp-Firefox-Y25OF2.desktop;
+
+[Default Applications]
+text/*=vi.desktop
+html/*=vim.desktop
+Electron/*=vim.desktop
+minor/major=vim.desktop
+text/plain=vim.desktop
+application/x-zerosize=firefox.desktop
+image/svg+xml=nsxiv.desktop
+x-scheme-handler/http=userapp-Firefox-Y25OF2.desktop
+x-scheme-handler/https=userapp-Firefox-Y25OF2.desktop
+x-scheme-handler/chrome=userapp-Firefox-Y25OF2.desktop
+text/html=userapp-Firefox-Y25OF2.desktop
+application/x-extension-htm=userapp-Firefox-Y25OF2.desktop
+application/x-extension-html=userapp-Firefox-Y25OF2.desktop
+application/x-extension-shtml=userapp-Firefox-Y25OF2.desktop
+application/xhtml+xml=userapp-Firefox-Y25OF2.desktop
+application/x-extension-xhtml=userapp-Firefox-Y25OF2.desktop
+application/x-extension-xht=userapp-Firefox-Y25OF2.desktop

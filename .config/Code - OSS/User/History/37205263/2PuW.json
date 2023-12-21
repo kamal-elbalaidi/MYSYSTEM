@@ -1,0 +1,25 @@
+{
+    "workbench.editor.showTabs": "single",
+    "window.menuBarVisibility": "compact",
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": false,
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+    "workbench.preferredLightColorTheme": "Default Dark Modern",
+    "screencastMode.mouseIndicatorColor": "#817e7e",
+    "search.mode": "reuseEditor",
+    "workbench.list.defaultFindMode": "filter",
+    "window.autoDetectColorScheme": true,
+    "workbench.activityBar.location": "top",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.colorCustomizations": {
+
+    },
+    "editor.fontSize": 16,
+    "editor.fontFamily": " 'DejaVu Sans Mono ', 'Ubuntu Sans Mono' ,  'FontAwesome'",
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontFamily": "DejaVu Sans Mono",
+    "editor.codeLensFontFamily": "Ubuntu Sans Mono"
+}

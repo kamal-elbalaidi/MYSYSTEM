@@ -1,0 +1,9 @@
+{
+    "workbench.editor.showTabs": "single",
+    "window.menuBarVisibility": "compact",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": false
+}

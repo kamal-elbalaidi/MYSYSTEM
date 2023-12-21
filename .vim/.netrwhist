@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/kamal/SUCKLESS/dwm'
+let g:netrw_dirhist_7='/home/kamal/.config/xfce4/xfconf/xfce-perchannel-xml'
+let g:netrw_dirhist_6='/home/kamal/.config/xfce4'
+let g:netrw_dirhist_5='/home/kamal/.config/xfce4/xfconf/xfce-perchannel-xml'
+let g:netrw_dirhist_4='/home/kamal/dwmljljlkj/chadwm'
+let g:netrw_dirhist_3='/home/kamal/dwmljljlkj'
+let g:netrw_dirhist_2='/home/kamal/Downloads/SUCKLESS/dwm'
+let g:netrw_dirhist_1='/home/kamal/.config'

@@ -1,0 +1,132 @@
+
+*{
+    font-family:DejaVu Sans Mono;
+    font-size:13px;
+    font-weight: bold;
+ }
+ separator{
+    background-color:#0c0c0c;
+ }
+ 
+ grid{
+    outline:none;
+ }
+ 
+ menubar{
+     background-color:#0c0c0c;
+     color:#eeeeee;
+ }
+     
+ menuitem:hover{
+     color:#0c0c0c;
+     background-color:#6aa843;
+     border:none;
+     outline:none;
+     box-shadow:none;
+ }
+ treeview{
+     background-color:#0c0c0c;      /**/
+     
+ }
+ treeview:selected{
+     background-color:#6aa843;
+     color:#0c0c0c;
+ }
+ slider{
+     
+     background-color:#6aa843;
+     
+ }
+    
+ toolbar{
+ 
+     background-color:#0c0c0c;
+     border:none;
+     outline:none;
+    
+ } 
+ 
+ entry{
+ outline:none;
+ box-shadow:none;
+ margin:0 5px ;
+ background-color:#0c0c0c;
+ }
+ 
+ 
+   .rubberband{
+     background-color:rgba(106,168,67,0.3);
+     border:none;
+ 
+ }
+ 
+ widget{
+     background-color:#0c0c0c;
+ 
+ }
+     
+ 
+ widget:selected{
+     background-color:#6aa843;
+     color:#0c0c0c;
+ 
+ }
+ 
+ widget:active{
+     background-color:#6aa843;
+     color:#0c0c0c;
+ 
+ }
+ 
+viewport,button,stack,list, .dialog-action-box{
+
+background-color:#0c0c0c;
+
+}
+
+
+row:selected{
+background-color:#6aa843;
+
+}
+vte-terminal{
+padding:6px 30px
+
+}
+.dialog-vbox,.dialog-action-area,combobox {
+
+background-color:#0c0c0c;
+}
+
+
+
+
+ #terminator-tab-close-button {
+
+    background-color:#6aa846;
+    color:#0c0c0c;
+    outline:none;
+    border:none;
+    padding:0 2px
+}
+#terminator-tab-close-button:hover {
+
+    background:none;
+    background-color:#ff5511;
+    color:#eeeeee
+}
+
+
+tab{
+margin:1px 5px;
+padding:5px 19px 5px 0px ;
+border:none;
+outline:none;
+box-shadow:0 -3px #0c0c0c inset,0 3px  #0c0c0c inset;
+
+}
+tab:checked{
+
+box-shadow:0 -3px  #6aa846 inset,0 3px #6aa846 inset;
+}
+

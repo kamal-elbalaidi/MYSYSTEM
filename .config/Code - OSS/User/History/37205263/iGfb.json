@@ -1,0 +1,12 @@
+{
+    "workbench.editor.showTabs": "single",
+    "window.menuBarVisibility": "compact",
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": false,
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+    "workbench.preferredLightColorTheme": "Default Dark Modern",
+    "screencastMode.mouseIndicatorColor": "#eeeeee"
+}

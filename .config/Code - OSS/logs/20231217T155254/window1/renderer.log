@@ -1,0 +1,2 @@
+2023-12-17 15:53:03.937 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/kamal/dwm/patch/dwm-status2d-6.2.diff","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-12-17 15:53:23.527 [info] [perf] Render performance baseline is 280ms

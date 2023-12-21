@@ -1,0 +1,24 @@
+syntax on
+"*************Vundle *****************
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+	Plugin 'VundleVim/Vundle.vim'
+	Plugin 'scrooloose/nerdtree'
+	Plugin 'ryanoasis/vim-devicons'
+	Plugin 'skammer/vim-css-color'
+
+call vundle#end()    
+filetype plugin indent on
+"*************Vundle *****************
+nnoremap <C-t> :NERDTreeToggle<CR>
+
+"*************************************
+let g:cssColorVimDoNotMessMyUpdatetime =1 
+"*************************************
+
+
+set number
+set arabicshape
+set termbidi

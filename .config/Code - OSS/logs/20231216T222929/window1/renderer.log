@@ -1,0 +1,2 @@
+2023-12-16 22:29:39.695 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/kamal/dwm/dwm.c.rej","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-12-16 22:29:55.884 [info] [perf] Render performance baseline is 341ms

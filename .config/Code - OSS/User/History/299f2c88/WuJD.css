@@ -1,0 +1,48 @@
+/*
+You can type here any CSS rule recognized by GTK+.
+You can temporarily disable this custom CSS by clicking on the “Pause” button above.
+
+Changes are applied instantly and globally, for the whole application.
+*/
+
+separator{
+
+background-color:#333333;
+
+
+}
+*{
+font-family:Ubuntu Mono;
+font-size:15px;
+font-weight: bold;
+
+
+}
+
+grid{
+
+outline:none;
+
+border-radius:3px
+
+
+}
+
+
+
+menubar{
+    background-color:#0c0c0c;
+    color:#eeeeee;
+    font-family:Ubuntu Mono;
+    font-size:15px;
+    font-weight: bold;
+    }
+    
+    menuitem:hover{
+    color:#0c0c0c;
+    background-color:#6aa843;
+    border:none;
+    outline:none;
+    box-shadow:none;
+    }
+    

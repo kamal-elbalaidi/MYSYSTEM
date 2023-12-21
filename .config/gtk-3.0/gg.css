@@ -1,0 +1,51 @@
+
+
+scrollbar contents{
+background:none;
+box-shadow:none;
+border:none;
+outline:none;
+animation:none;
+transition:none;
+}
+trough slider{
+background:#6aa844;
+box-shadow:none;
+border:none;
+outline:none;
+animation:none;
+} 
+trough slider:hover , trough slider:hover:active{
+background:#6aa844;
+box-shadow:none;
+border:none;
+outline:none;
+animation:none;
+
+} 
+scrollbar *{
+
+transition:none;
+animation:none;
+margin:0px;
+
+
+}
+scrollbar {
+
+background:none
+
+
+}
+scrollbar contents trough{
+background:none;
+
+}
+
+box .view >*:selected{
+
+background:none;
+background-color:#6aa846;
+color:#0c0c0c;
+
+}

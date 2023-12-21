@@ -1,0 +1,45 @@
+[global_config]
+  dbus = False
+  focus = mouse
+  handle_size = 6
+  extra_styling = False
+  broadcast_default = off
+  scroll_tabbar = True
+  hide_from_taskbar = True
+  hide_on_lose_focus = True
+  title_hide_sizetext = True
+  title_transmit_fg_color = "#eeeeee"
+  title_transmit_bg_color = "#0c0c0c"
+  title_receive_bg_color = "#0c0c0c"
+  title_inactive_fg_color = "#ffffdd"
+  title_inactive_bg_color = "#0c0c0c"
+  inactive_color_offset = 1.0
+  enabled_plugins = ,
+  suppress_multiple_term_dialog = True
+  title_font = Ubuntu Mono Bold 15
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#0c0c0c"
+    cursor_blink = False
+    cursor_color = "#eeeeee"
+    font = DejaVu Sans Mono Oblique 13
+    foreground_color = "#eeeeee"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scroll_on_keystroke = False
+    palette = "#0c0c0c:#d82727:#6aa847:#ccce54:#215386:#c447ad:#46d4d1:#eeeeee:#eeeeee:#d82727:#6aa847:#ccce54:#215386:#c447ad:#46d4d1:#eeeeee"
+    login_shell = True
+    use_system_font = False
+    bold_is_bright = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

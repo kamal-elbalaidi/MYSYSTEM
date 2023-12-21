@@ -1,0 +1,82 @@
+
+*{
+    font-family:Ubuntu Mono;
+    font-size:15px;
+    font-weight: bold;
+ }
+ separator{
+    background-color:#0c0c0c;
+ }
+ 
+ grid{
+    outline:none;
+ }
+ 
+ menubar{
+     background-color:#0c0c0c;
+     color:#eeeeee;
+ }
+     
+ menuitem:hover{
+     color:#0c0c0c;
+     background-color:#6aa843;
+     border:none;
+     outline:none;
+     box-shadow:none;
+ }
+ treeview{
+     font-weight: bold;
+     background-color:#0c0c0c;      /**/
+     
+ }
+ treeview:selected{
+     background-color:#6aa843;
+     color:#0c0c0c;
+ }
+ slider{
+     
+     background-color:#6aa843;
+     
+ }
+    
+ toolbar{
+ 
+     background-color:#0c0c0c;
+     border:none;
+     outline:none;
+    
+ } 
+ 
+ entry{
+ outline:none;
+ box-shadow:none;
+ margin:0 5px ;
+ background-color:#0c0c0c;
+ }
+ 
+ 
+   .rubberband{
+     background-color:rgba(106,168,67,0.3);
+     border:none;
+ 
+ }
+ 
+ widget{
+     background-color:#0c0c0c;
+ 
+ }
+     
+ 
+ widget:selected{
+     background-color:#6aa843;
+     color:#0c0c0c;
+ 
+ }
+ 
+ widget:active{
+     background-color:#6aa843;
+     color:#0c0c0c;
+ 
+ }
+ 
+ 

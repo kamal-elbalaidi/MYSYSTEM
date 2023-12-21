@@ -1,0 +1,8 @@
+{
+    "workbench.editor.showTabs": "none",
+    "window.menuBarVisibility": "compact",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.activityBar.location": "hidden",
+    "editor.stickyScroll.enabled": true,
+    "breadcrumbs.enabled": false
+}
